@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 [![My GitHub stats - Light](https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/kianlin/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant" alt="Kian's Streak Stats"/>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kianlin)](https://github.com/kianlin/) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant" alt="Kian's Streak Stats"/> -->
 
 <!-- Overall Stats -->
 
@@ -40,30 +38,70 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/kianlin/">
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant">
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant" alt="Kian's Streak Stats"/>
+</picture>
+</a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kianlin)](https://github.com/kianlin/)
+
+<!-- <a href="https://github.com/kianlin/">
   <img align="center" src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&hide_border=true&theme=bear&bg_color=000000#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/kianlin/">
   <img align="center" src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&hide_border=true&theme=default#gh-light-mode-only"/>
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=kianlin#gh-dark-mode-only">
+</a> -->
+<!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=kianlin#gh-dark-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant" alt="Kian's Streak Stats"/>
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=kianlin#gh-light-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin" alt="Kian's Streak Stats"/>
-</a>
+</a> -->
 
 # Most Used Language
 
 <hr>
 
-<!-- <div align="center">
-<img align="top" width="30%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Overall Top Language" />
+<div align="center">
+<img align="top" width="33.3%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Overall Top Language" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img align="top" width="30%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Web Development Top Language" />
+<img align="top" width="33.3%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Web Development Top Language" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img align="top" width="30%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Data Analytics Top Language" />
+<img align="top" width="33.3%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&theme=bear&bg_color=000000#gh-dark-mode-only" alt="Data Analytics Top Language" />
 
-</div> -->
+</div>
+
+# TESTING
+
+<div class="language-dark">
+    <table>
+        <tr>
+            <th>Overall</th>
+            <th>Web Development</th>
+            <th>Data Analytics</th>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/kianlin/">
+                <picture>
+                    <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&hide_title=true&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=bear&bg_color=000000">
+                    <img align="top" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&hide_title=true&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=default" alt="Overall Top Language" />
+                </picture>
+                </a>
+            </td>
+        </tr>
+    </table>
+
+|                                                                                                                                                                                                                                Overall                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                      Web Development                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                   Data Analytics                                                                                                                                                                                                                                                   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Overall Top Langs](https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=bear&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) | [![Web Development Top Langs](https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&theme=bear&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) | [![Data Analytics Top Langs](https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&hide_title=true&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&theme=bear&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) |
+
+</picture>
+</div>
+
+# END TEST
 
 <!-- Dark Mode -->
 <div class="language-dark">

@@ -31,34 +31,53 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/kianlin/">
 <picture>
-<source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=bear&bg_color=000000&border_color=666666">
-<img align="center" src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=default"/>
+<source 
+        align="center" 
+        srcset="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+<img 
+     align="center"
+     alt="Kian's GitHub Stats"
+     src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=bear&bg_color=000000&border_color=666666"
+     />
 </picture>
 </a>
 </div>
 <br>
-<!-- TEST LANGUAGE -->
-<div align="center">
-<a href="https://github.com/kianlin/">
-<picture>
-<source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666">
-<img align="center" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default&bg_color=000000&border_color=666666"/>
-</picture>
-</a>
-</div>
-<br>
+
 <div align="center">
     <p float="left" >
         <a href="https://github.com/kianlin/">
         <picture>
-        <source align="middle" width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant&background=000000&border=666666">
-        <img align="middle" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin" alt="Kian's Streak Stats"/>
+        <source 
+                align="middle" 
+                width="49%" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-streak-stats.herokuapp.com/?user=kianlin" 
+                />
+        <img 
+             align="middle" 
+             width="49%"
+             alt="Kian's Streak Stats"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant&background=000000&border=666666"
+             />
         </picture>
         </a>
         <a href="https://github.com/kianlin/">
         <picture>
-        <source align="middle"  width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&theme=gotham&bg_color=000000&border_color=666666">
-        <img align="middle" width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin" alt="Kian's Streak Stats"/>
+        <source 
+                align="middle"  
+                width="49%" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin"
+                />
+        <img 
+             align="middle" 
+             width="49%"
+             alt="Kian's Coding Activity Stats"
+             src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&theme=gotham&bg_color=000000&border_color=666666"
+             />
         </picture>
         </a>
     </p>
@@ -81,19 +100,20 @@ Here are some ideas to get you started:
 
 ## Programming Languages
 
-<a href="https://github.com/kianlin/">
-<picture>
-<source align="center" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666">
-<img src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default"/>
-</picture>
-</a>
-
-<br>
 <div align="center">
 <a href="https://github.com/kianlin/">
 <picture>
-<source align="middle" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666">
-<img align="middle" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default" alt="Kian's Overall Most Used Languages" />
+<source 
+        align="center"
+        width="50%" 
+        srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default&bg_color=000000&border_color=666666"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+<img 
+     align="center" 
+     width="50%" 
+     src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666" />
+     
 </picture>
 </a>
 </div>
@@ -102,14 +122,34 @@ Here are some ideas to get you started:
     <p float="left">
         <a href="https://github.com/kianlin/">
         <picture>
-        <source align="middle" width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=bear&bg_color=000000&border_color=666666">
-        <img align="middle" width="49%" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=default" alt="Kian's Web Development Languages" />
+        <source 
+                align="middle" 
+                width="49%" 
+                srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=default"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+        <img 
+             align="middle" 
+             width="49%" 
+             alt="Kian's Web Development Languages"
+             src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=bear&bg_color=000000&border_color=666666"
+             />
         </picture>
         </a>
         <a href="https://github.com/kianlin/">
         <picture>
-        <source align="middle" width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=bear&bg_color=000000&border_color=666666">
-        <img align="middle" width="49%" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=default" alt="Kian's Data Analytics Languages" />
+        <source 
+                align="middle" 
+                width="49%" 
+                srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=default"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+        <img 
+             align="middle" 
+             width="49%" 
+             alt="Kian's Data Analytics Languages" 
+             src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=bear&bg_color=000000&border_color=666666"
+             />
         </picture>
         </a>
     </p>

@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br>
+
 <div align="center">
     <p float="left" >
         <a href="https://github.com/kianlin/">
@@ -71,15 +72,20 @@ Here are some ideas to get you started:
 
 ## Programming Languages
 
-<a href="https://github.com/kianlin/">
-<img src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666" />
-</a>
-
 <div align="center">
 <a href="https://github.com/kianlin/">
 <picture>
-<source align="middle" width=100% media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666">
-<img align="middle" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default" alt="Kian's Overall Most Used Languages"/>
+<source align="center" width=100% media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666" />
+<img src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default" />
+</picture>
+</a>
+</div>
+<br>
+<div align="center">
+<a href="https://github.com/kianlin/">
+<picture>
+<source align="middle" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666">
+<img align="middle" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default" alt="Kian's Overall Most Used Languages" />
 </picture>
 </a>
 </div>
@@ -89,13 +95,13 @@ Here are some ideas to get you started:
         <a href="https://github.com/kianlin/">
         <picture>
         <source align="middle" width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=bear&bg_color=000000&border_color=666666">
-        <img align="middle" width="49%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=default" alt="Kian's Web Development Languages"/>
+        <img align="middle" width="49%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,singapore-sports-facilities,airbnb-price-prediction,Sudoku_Solver&custom_title=Web%20Development&theme=default" alt="Kian's Web Development Languages" />
         </picture>
         </a>
         <a href="https://github.com/kianlin/">
         <picture>
         <source align="middle" width="49%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=bear&bg_color=000000&border_color=666666">
-        <img align="middle" width="49%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=default" alt="Kian's Data Analytics Languages"/>
+        <img align="middle" width="49%" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,Sudoku_Solver,repeatly_bt3103,Assignment1,GoogleSearchPages&custom_title=Data%20Analytics&theme=default" alt="Kian's Data Analytics Languages" />
         </picture>
         </a>
     </p>
@@ -188,18 +194,6 @@ Here are some ideas to get you started:
 <!-- [![WebDev: Repeatly](https://github-readme-stats-kianlin.vercel.app/api/pin/?username=kianlin&repo=repeatly_bt3103&hide_border=true&theme=bear&bg_color=000000#gh-dark-mode-only)](https://github.com/jeremycte/repeatly_bt3103)
 
 [![WebDev: Repeatly](https://github-readme-stats-kianlin.vercel.app/api/pin/?username=kianlin&repo=repeatly_bt3103&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/jeremycte/repeatly_bt3103) -->
-
-<!-- <style>
-.language-dark th {
-  background-color: #5A5A5A;
-  color: white;
-}
-
-.language-light th {
-  background-color: black;
-  color: white;
-}
-</style> -->
 
 <!-- ## Overall
 [![Overall Top Langs](https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator,DiscreteEventSimulator&theme=bear&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)

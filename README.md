@@ -238,3 +238,5 @@ Here are some ideas to get you started:
 </p> -->
 
 ![Profile View](https://komarev.com/ghpvc/?username=kianlin&style=plastic)
+
+[![Repository Views](https://github.com/kianlin/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kianlin/github-profile-views-counter)

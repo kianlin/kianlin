@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoutlook" />
 </a>
 
-## Technology
+## :computer: Technology
 
 ### Data Analytics
 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## GitHub Statistics
+## :bar_chart: GitHub Statistics
 
 <!-- Light Mode -->
 <div align="center">
@@ -94,7 +94,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 </div>
-
 <!-- Dark Mode -->
 <div align="center">
 <p align="center">
@@ -133,13 +132,13 @@ Here are some ideas to get you started:
         <picture>
         <source 
                 align="middle" 
-                width="50%" 
+                width="45%" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 srcset="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=blood&background=fffefe&border=ff5f5f" 
                 />
         <img 
              align="middle" 
-             width="48%"
+             width="45%"
              alt="Kian's Streak Stats"
              src="https://github-readme-streak-stats.herokuapp.com/?user=kianlin&theme=elegant&background=000000&border=666666"
              />
@@ -156,7 +155,7 @@ Here are some ideas to get you started:
                 />
         <img 
              align="middle" 
-             width="48%"
+             width="50%"
              alt="Kian's Coding Activity Stats"
              src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&theme=gotham&bg_color=000000&border_color=666666"
              />

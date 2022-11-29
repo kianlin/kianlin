@@ -1,21 +1,27 @@
-# Hello there, I am Kian 👋
+<h1 align="center"> Hello there, I am Kian 👋 </h1>
 
-<!--
-**kianlin/kianlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:man_student: Student in the National University of Singapore, majoring in Business Analytics specialised in Marketing Analytics
 
-Here are some ideas to get you started:
+:volleyball: Enjoys playing sports and an avid watcher of many sports: Tennis, Volleyball, Athletics, Gymnastics, you name it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:seedling: Working on getting my online certificates on various Sports, Data Analytics and Web Development Courses
 
-## Connect with me
+:desktop_computer: Building my first Sudoku Solver GUI as a side project currently
+
+:man_technologist: Focus areas includes Marketing Analytics, Sports Analytics and Geospatial Analytics
+
+:mailbox_with_mail: Connect with me on&nbsp;
+<a href="https://www.linkedin.com/in/kianlintan/"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin" /></a> 
+&nbsp;or drop me a mail&nbsp;
+<a href="mailto:kianlin_tan@hotmail.com"><img height="28" width="28" src="https://cdn.simpleicons.org/microsoftoutlook" /></a>&nbsp;!
+
+![Profile View](https://komarev.com/ghpvc/?username=kianlin&style=plastic) 
+[![Repository Views](https://github.com/kianlin/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kianlin/github-profile-views-counter)
+
+![New View Counter](https://hit.yhype.me/github/profile?user_id=65789711)
+
+<!-- Include after 3 or more links available in future -->
+<!-- <h2 align="center"> :mailbox_with_mail: Connect With Me </h2>
 
 <a href="https://www.linkedin.com/in/kianlintan/">
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
@@ -23,9 +29,9 @@ Here are some ideas to get you started:
 &nbsp;
 <a href="mailto:kianlin_tan@hotmail.com">
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoutlook" />
-</a>
+</a> -->
 
-## :computer: Technology
+<h2 align="center"> :computer: Technology </h2>
 
 ### Data Analytics
 
@@ -80,7 +86,7 @@ Here are some ideas to get you started:
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## :bar_chart: GitHub Statistics
+<h2 align="center"> :bar_chart: GitHub Statistics </h2>
 
 <!-- Light Mode -->
 <div align="center">
@@ -236,7 +242,3 @@ Here are some ideas to get you started:
     </picture>
     </a>
 </p> -->
-
-![Profile View](https://komarev.com/ghpvc/?username=kianlin&style=plastic)
-
-[![Repository Views](https://github.com/kianlin/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/kianlin/github-profile-views-counter)

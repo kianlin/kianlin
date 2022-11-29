@@ -12,10 +12,14 @@
 
 :man_technologist: Focus areas includes Marketing Analytics, Sports Analytics and Geospatial Analytics
 
+:smile: Learning :fr: and hoping to be able to speak it fluently one day
+
 :mailbox_with_mail: Connect with me on&nbsp;
 <a href="https://www.linkedin.com/in/kianlintan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;or drop me a mail&nbsp;
 <a href="mailto:kianlin_tan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;!
+
+<br>
 
 ![Visitor Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kianlin-visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
 
@@ -40,9 +44,9 @@
 
 ### Data Analytics
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -85,6 +89,8 @@
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Duoingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
 ### Other Tools
@@ -100,11 +106,11 @@
 <!-- Light Mode -->
 <div align="center">
 <p align="center">
-<a href="https://github.com/kianlin/">
+<a href="https://github.com/kianlin/#gh-light-mode-only">
 <img width="55%" align="middle" src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=default&border_color=2f80ed#gh-light-mode-only" alt="Kian's GitHub Stats" />
 </a>
 &nbsp;
-<a href="https://github.com/kianlin/">
+<a href="https://github.com/kianlin/#gh-light-mode-only">
 <img width="40%" align="middle" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=default&title_color=5a4fcf&border_color=5a4fcf#gh-light-mode-only" alt="Kian's Overall Languages" />
 </a>
 </p>
@@ -112,16 +118,16 @@
 <!-- Dark Mode -->
 <div align="center">
 <p align="center">
-<a href="https://github.com/kianlin/">
+<a href="https://github.com/kianlin/#gh-dark-mode-only">
 <img width="55%" align="middle" src="https://github-readme-stats-kianlin.vercel.app/api?username=kianlin&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&custom_title=Kian's%20GitHub%20Stats&theme=bear&bg_color=000000&border_color=666666#gh-dark-mode-only" alt="Kian's Overall Languages" />
 </a>
 &nbsp;
-<a href="https://github.com/kianlin/">
+<a href="https://github.com/kianlin/#gh-dark-mode-only">
 <img width="40%" align="middle" src="https://github-readme-stats-kianlin.vercel.app/api/top-langs/?username=kianlin&include_orgs=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook&exclude_repo=github-stats,fork_demo,gitdemo2122,Crypto-Paper-Portfolio,TraversyMediaReactAndDRFTutorial,DiscreteEventSimulator&custom_title=Overall%20Most%20Used%20Languages&theme=bear&bg_color=000000&border_color=666666#gh-dark-mode-only" alt="Kian's Overall Languages" />
 </a>
 </p>
 </div>
-<br>
+
 <!-- Github Streak & Wakatime Stats -->
 <div align="center">
     <p float="left" >
@@ -160,6 +166,7 @@
         </a>
     </p>
 </div>
+
 
 <!-- Include after more public projects available in future -->
 <!-- Additional Projects Pins -->

@@ -21,7 +21,7 @@
 
 <br>
 
-![Visitor Views](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kianlin-visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![Visitor Views](https://vbr.wocr.tk/badge?page_id=kianlin-visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
 
 <!-- Other Views Badges -->
 <!-- ![Profile View](https://komarev.com/ghpvc/?username=kianlin&style=plastic) -->

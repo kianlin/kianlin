@@ -8,7 +8,7 @@
 
 :seedling: Working on getting my online certificates on various Sports, Data Analytics and Web Development Courses
 
-:desktop_computer: Building my first Sudoku Solver GUI as a side project currently
+:desktop_computer: Building an improved view of the school's facilities booking schedule as a side project currently
 
 :man_technologist: Focus areas includes Marketing Analytics, Sports Analytics and Geospatial Analytics
 
@@ -154,13 +154,13 @@
                 align="middle"  
                 width="50%" 
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&theme=gotham&border_color=2aa889&bg_color=fffefe"
+                srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&langs_count=3&theme=gotham&border_color=2aa889&bg_color=fffefe"
                 />
         <img 
              align="middle" 
              width="50%"
              alt="Kian's Coding Activity Stats"
-             src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&theme=gotham&bg_color=000000&border_color=666666"
+             src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&langs_count=3&theme=gotham&bg_color=000000&border_color=666666"
              />
         </picture>
         </a>

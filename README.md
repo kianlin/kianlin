@@ -2,19 +2,21 @@
 
 <!-- About Me -->
 
-:man_student: Student in the National University of Singapore, majoring in Business Analytics specialised in Marketing Analytics
+👨‍💼 Analytics & Computing by training, turning a passion for sport into work in sports data
 
-:volleyball: Enjoys playing sports and an avid watcher of many sports: Tennis, Volleyball, Athletics, Gymnastics, you name it!
+🏐 Passionate about sports—both playing and analysing. Regularly follows and plays Volleyball, Tennis, Athletics, Gymnastics, and more
 
-:seedling: Working on getting my online certificates on various Sports, Data Analytics and Web Development Courses
+📊 Building sports systems that transform large-scale data into actionable insights for decision-making
 
-:desktop_computer: Building an improved view of the school's facilities booking schedule as a side project currently
+⚒️ Developing tools in the Volleyball space, including a self-built performance analytics platform
 
-:man_technologist: Focus areas includes Marketing Analytics, Sports Analytics and Geospatial Analytics
+🏆 Interested in sports analytics, data systems, and the real-world application of data in high-performance environments
 
-:smile: Learning :fr: and hoping to be able to speak it fluently one day
+📚 Continuously learning across sports, data analytics, and web development
 
-:mailbox_with_mail: Connect with me on&nbsp;
+😄 Currently learning 🇫🇷 and working towards fluency
+
+📬 Connect with me on&nbsp;
 <a href="https://www.linkedin.com/in/kianlintan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;or drop me a mail&nbsp;
 <a href="mailto:kianlin_tan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;!

@@ -23,7 +23,9 @@
 
 <br>
 
-![Visitor Views](https://vbr.wocr.tk/badge?page_id=kianlin-visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![Visitor Views](https://vbr.nathanchung.dev/badge?page_id=kianlin-visitor-badge-reloaded-visitors&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+
+<!-- ![Visitor Views](https://vbr.nathanchung.dev/badge?page_id=kianlin-visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github) -->
 
 <!-- Other Views Badges -->
 <!-- ![Profile View](https://komarev.com/ghpvc/?username=kianlin&style=plastic) -->

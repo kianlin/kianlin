@@ -164,7 +164,7 @@
              align="middle" 
              width="50%"
              alt="Kian's Coding Activity Stats"
-             src="https://github-readme-stats.vercel.app/api/wakatime?username=kianlin&v=2&langs_count=3&theme=gotham&bg_color=000000&border_color=666666"
+             src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=kianlin&v=2&langs_count=5&theme=gotham&bg_color=000000&border_color=666666"
              />
         </picture>
         </a>
